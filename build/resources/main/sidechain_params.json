@@ -1,0 +1,17 @@
+{
+  "keySeed": "my-seed",
+  "vrfKeySeed": "my-seed",
+  "maxPks": 7,
+  "threshold": 5,
+  "provingKeyPath": "/tmp/sidechainapp/snark_proving_key",
+  "verificationKeyPath": "/tmp/sidechainapp/snark_verification_key",
+  "withdrawalEpochLength": 100,
+  "amount": 1.0,
+  "walletSeed": "seed1",
+  "outputFilePath": "/tmp/test.conf",
+  "blocksBefore": 420,
+  "enableSubmit": false,
+  "signingCertificateEnabled": false,
+  "automaticForging": false,
+  "startZendCheck": false
+}
